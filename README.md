@@ -1,6 +1,6 @@
 # eat-da-burger
 
-![]()
+![Screenshot (29)](https://user-images.githubusercontent.com/58678985/76824097-4d3fab00-67d3-11ea-8bac-b256ed825e06.png)
 
 ## Description
 In this app the user is able to create their own custom sandwich or hamburger. In fact the user may create an array of different burgers so that they can then choose which one to devour. Once devoured, the chosen burger is then able to be deleted by the user so it is removed from that list of yummy burgers. 
