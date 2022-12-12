@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "epress": "0.0.1-security",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^3.1.0",
     "gitignore": "^0.6.0",
     "mysql": "^2.18.1"
